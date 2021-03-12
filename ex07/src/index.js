@@ -3,7 +3,7 @@ function main() {
     var someAdjective = "the best!";
     var myString = "Mistral is ";
     myString += someAdjective;
-    // myString  is now "Mistral is the best."
+    // myString is now "Mistral is the best."
     
     // Only change code above this line
     return myString;
