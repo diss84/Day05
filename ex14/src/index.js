@@ -4,7 +4,7 @@ function main() {
     var myVerb = "ran";
     var myAdjective = "big";
     var myAdverb = "quickly";
-    var wordBlanks = "My " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + " to catch the ball."
+    var wordBlanks = "My " + myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb + " to catch the ball."
     // Only change code above this line
     return wordBlanks;
     
