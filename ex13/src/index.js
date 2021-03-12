@@ -1,7 +1,7 @@
 function main() {
     // Only change code below this line
     var lastName = "Bezos";
-    var thirdToLastLetterOfLastName = lastName[lastName.length - 3];    //lastLetterOfLastName is "a"
+    var thirdToLastLetterOfLastName = lastName[lastName.length - 3];   //thirdtoLastLetterOfLastName is "z"
     // Only change code above this line
     return thirdToLastLetterOfLastName;
     
